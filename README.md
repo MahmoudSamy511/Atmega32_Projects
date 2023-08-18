@@ -9,7 +9,7 @@ List the projects available in this repository along with a brief description of
 
 | Project Name       | Description                                |
 |--------------------|--------------------------------------------|
-| Project 1          | System to Control DC Motor & Stepper Motor |
+| Project 1          | System to Control Motors[DC- Stepper - Servo]. |
 
  
 For each project, link to the corresponding project folder where detailed information can be found.
