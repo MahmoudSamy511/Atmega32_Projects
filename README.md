@@ -7,9 +7,10 @@ This repository contains a collection of projects based on the ATmega32 microcon
 
 List the projects available in this repository along with a brief description of each. You can organize them in a table or bullet points.
 
-| Project Name       | Description                                |
-|--------------------|--------------------------------------------|
-| Project 1          | System to Control DC Motor & Stepper Motor |
+| Project Name       | Description                                                      |
+|--------------------|------------------------------------------------------------------|
+| Project 1          | System to Control Motors[DC Motor - Stepper Motor - Servo Motor] |
+| Project 2          | Automated Door System                                            |
 
  
 For each project, link to the corresponding project folder where detailed information can be found.
