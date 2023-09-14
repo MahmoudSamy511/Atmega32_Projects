@@ -9,7 +9,7 @@ List the projects available in this repository along with a brief description of
 
 | Project Name       | Description                                                      |
 |--------------------|------------------------------------------------------------------|
-| Project 1          | System to Control Motors[DC Motor - Stepper Motor - Servo Motor] |
+| Project 1          | Motors Dasshboard Usin SPI                                       |
 | Project 2          | Automated Door System                                            |
 
 For each project, link to the corresponding project folder where detailed information can be found.
