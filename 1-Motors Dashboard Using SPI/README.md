@@ -9,7 +9,7 @@ DC_Motor[CW or CCW] & Stepper Motor[with a specific angle].
 - when the user login , LCD diplays the options `[1-DC Motor, 2-Stepper Motor, 3-EXIT]`.
 - Case **DC Motor** :LCD diplays options for directions `[1-Rotate CW, 2-Rotate CCW]`.
 - Case **Stepper Motor**:System will ask user to `Enter the angle` ,then choose direction `[1-Rotate CW, 2-Rotate CCW]`.
-- Case **Exit** :All Motors will Stop and program Ended.
+- Case **Stop** :All Motors will Stop.
 ## Schematic
   ![image](https://github.com/MahmoudSamy511/Atmega32_Projects/assets/95527475/7ced554c-6bb1-488a-834d-b7eb3cd8ab6e)
 
